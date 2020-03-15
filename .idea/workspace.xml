@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ffe1b05-101b-4bbf-8f47-1a8186880c35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YZiMYUGQGRq77VDSlZ1q2StgOX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yese.simpleFactory" />
+      <recent name="com.yese.factoryMethod" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yese.abstractfactory.Client" />
+      <module name="GoF23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yese.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yese.factorymethod.FactoryPattern" />
+      <module name="GoF23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yese.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonDemo04Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yese.singleton.SingletonDemo04Test" />
+      <module name="GoF23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yese.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yese.simplefactory.Test" />
+      <module name="GoF23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yese.simplefactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.FactoryPattern" />
+      <item itemvalue="Application.SingletonDemo04Test" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.FactoryPattern" />
+        <item itemvalue="Application.SingletonDemo04Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ffe1b05-101b-4bbf-8f47-1a8186880c35" name="Default Changelist" comment="" />
+      <created>1583156469876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583156469876</updated>
+      <workItem from="1583156472177" duration="339000" />
+      <workItem from="1583156815427" duration="4811000" />
+      <workItem from="1583239653751" duration="112000" />
+      <workItem from="1583239788281" duration="1355000" />
+      <workItem from="1583251153004" duration="1083000" />
+      <workItem from="1583318329680" duration="6107000" />
+      <workItem from="1583327861634" duration="1235000" />
+      <workItem from="1583330106304" duration="2638000" />
+      <workItem from="1583502540341" duration="696000" />
+      <workItem from="1583503691004" duration="411000" />
+      <workItem from="1583504652771" duration="1319000" />
+      <workItem from="1583571424968" duration="511000" />
+      <workItem from="1583572064247" duration="743000" />
+      <workItem from="1583598536442" duration="385000" />
+      <workItem from="1583599060354" duration="1772000" />
+      <workItem from="1583601830759" duration="337000" />
+      <workItem from="1583602225198" duration="257000" />
+      <workItem from="1583602501168" duration="1911000" />
+      <workItem from="1583646185680" duration="120000" />
+      <workItem from="1583646587078" duration="776000" />
+      <workItem from="1583648048916" duration="3823000" />
+      <workItem from="1583679192484" duration="1990000" />
+      <workItem from="1584267136404" duration="805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="464" y="234" key="#Custom_Plugin_Repositories" timestamp="1583599515683">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="464" y="234" key="#Custom_Plugin_Repositories/0.0.1792.1120@0.0.1792.1120" timestamp="1583599515683" />
+    <state x="464" y="234" key="#HTTP_Proxy" timestamp="1583680493766">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="464" y="234" key="#HTTP_Proxy/0.0.1792.1120@0.0.1792.1120" timestamp="1583680493766" />
+    <state x="390" y="241" key="#Tomcat_Server" timestamp="1583251797277">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="390" y="241" key="#Tomcat_Server/0.0.1792.1120@0.0.1792.1120" timestamp="1583251797277" />
+    <state x="360" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583599456849">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="360" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1583599456849" />
+    <state x="618" y="438" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1583602479835">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="618" y="438" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1583602479835" />
+    <state x="709" y="272" key="#com.intellij.ide.util.MemberChooser" timestamp="1583330858675">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="709" y="272" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1583330858675" />
+    <state width="1750" height="310" key="GridCell.Tab.0.bottom" timestamp="1583599459876">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="310" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1583599459876" />
+    <state width="1750" height="310" key="GridCell.Tab.0.center" timestamp="1583599459875">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="310" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1583599459875" />
+    <state width="1750" height="310" key="GridCell.Tab.0.left" timestamp="1583599459875">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="310" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1583599459875" />
+    <state width="1750" height="310" key="GridCell.Tab.0.right" timestamp="1583599459876">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="310" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1583599459876" />
+    <state x="295" y="147" width="997" height="747" key="SettingsEditor" timestamp="1584273188846">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="295" y="147" width="997" height="747" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1584273188846" />
+    <state x="496" y="301" key="Vcs.Push.Dialog.v2" timestamp="1584272559531">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="301" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1584272559531" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1583239907955">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1583239907955" />
+  </component>
+</project>
